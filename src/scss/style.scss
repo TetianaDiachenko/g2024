@@ -1,23 +1,2 @@
 @import "fonts";
 
-body {
-	font-family: CormorantUpright;
-	font-size: 25px;
-	span {
-		color: red;
-	}
-	// background: url("@img/Socrat.jpg") 0 0 no-repeat;
-}
-
-@media (max-width: 768) {
-	span {
-		font-size: 20px;
-	}
-}
-
-@media (max-width: 768) {
-	body {
-		background-color: green;
-	}
-}	
-
