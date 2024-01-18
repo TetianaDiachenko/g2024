@@ -3,7 +3,8 @@ gulp collection
 
 works with npm 8.1.2, node 16.13.1
 
-##Basic commands
+## Basic commands
+
 **npm i**
 to upload all dependencies
 
